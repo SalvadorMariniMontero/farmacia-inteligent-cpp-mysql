@@ -744,15 +744,15 @@
 
 # 
 
-# \## 16. Llicència
+# \## ## 16. Llicència
 
-# 
+Aquest projecte es publica sota llicència MIT.
 
-# Llicència pendent de definir.
+La llicència permet consultar, utilitzar, modificar i reutilitzar el codi, sempre mantenint l’avís de copyright i la llicència original.
 
-# 
+Vegeu el fitxer:
 
-# En aquesta fase inicial, el projecte es publica com a mostra tècnica personal. La incorporació d’una llicència oberta, com MIT, Apache 2.0 o GPL, es decidirà en una fase posterior.
-
-
+```text
+LICENSE
+```
 
