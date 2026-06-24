@@ -1,0 +1,39 @@
+# Visual Studio / VS Code
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build folders
+Debug/
+Release/
+x64/
+x86/
+build/
+out/
+
+# Compiled binaries
+*.exe
+*.dll
+*.lib
+*.obj
+*.pdb
+*.ilk
+*.exp
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+
+# MySQL / credentials
+*.env
+config.ini
+secrets.txt
+passwords.txt
+
+# OS files
+Thumbs.db
+.DS_Store
